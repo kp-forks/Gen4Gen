@@ -91,7 +91,7 @@ If you have any general questions or need support, please feel free to contact: 
 ## :heart: <a name="11"></a> Citation
 If you find the codebase and MyCanvas dataset valuable and utilize it in your work, we kindly request that you consider giving our GitHub repository a ⭐ and citing our paper.
 ```
-@misc{Yeh_2025_BMVC,
+@inproceedings{Yeh_2025_BMVC,
   author        = {Chun-Hsiao Yeh and
                    Ta-Ying Cheng and
                    He-Yen Hsieh and
