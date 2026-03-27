@@ -91,7 +91,7 @@ If you have any general questions or need support, please feel free to contact: 
 ## :heart: <a name="11"></a> Citation
 If you find the codebase and MyCanvas dataset valuable and utilize it in your work, we kindly request that you consider giving our GitHub repository a ⭐ and citing our paper.
 ```
-@misc{yeh2024gen4gen,
+@misc{Yeh_2025_BMVC,
   author        = {Chun-Hsiao Yeh and
                    Ta-Ying Cheng and
                    He-Yen Hsieh and
@@ -102,9 +102,9 @@ If you find the codebase and MyCanvas dataset valuable and utilize it in your wo
                    H.T. Kung and
                    Yubei Chen},
   title         = {Gen4Gen: Generative Data Pipeline for Generative Multi-Concept Composition},
-  year          = {2024},
-  eprint        = {2402.15504},
-  archivePrefix = {arXiv},
-  primaryClass  = {cs.CV}
+  booktitle     = {36th British Machine Vision Conference 2025, {BMVC} 2025, Sheffield, UK, November 24-27, 2025},
+  publisher     = {BMVA},
+  year          = {2025},
+  url           = {https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_28/paper.pdf}
 }
 ```
